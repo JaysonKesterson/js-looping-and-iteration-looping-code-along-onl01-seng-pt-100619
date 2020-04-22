@@ -8,4 +8,7 @@ for (let i = 0; i < array.length; i++) {
   return newarray;
 }
 
-function countDown(number)
+function countDown(number) {
+  let i = number;
+  while
+}
