@@ -10,7 +10,8 @@ for (let i = 0; i < array.length; i++) {
 
 function countDown(number) {
   let i = number;
-  while (i =) {
-    
+  while (i !== 0) {
+    console.log(i);
+    i--;
   }
 }
