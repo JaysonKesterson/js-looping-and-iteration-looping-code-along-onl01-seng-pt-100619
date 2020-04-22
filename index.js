@@ -2,6 +2,7 @@
 
 function writeCards(array, name) {
 for (let i = 0; i < array.length; i++) {
-    console.log(`Wrapped ${gifts[i]} and added a bow!`);
+    let newarray = [];
+    newarray.push(`Thank you ${gifts[i]} and added a bow!`)
   }
 }
