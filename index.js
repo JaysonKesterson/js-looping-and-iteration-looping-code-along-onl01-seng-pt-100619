@@ -10,5 +10,7 @@ for (let i = 0; i < array.length; i++) {
 
 function countDown(number) {
   let i = number;
-  while
+  while (i =) {
+    
+  }
 }
